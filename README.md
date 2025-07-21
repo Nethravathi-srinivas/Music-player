@@ -14,11 +14,11 @@ A beautifully designed and fully functional web-based music player built using *
  **Project Structure**
 
  Music-Player/
-├── index.html # Main HTML file
-├── style.css # Styling (blur, layout, fonts)
-├── script.js # Music control logic
-├── music/ # All MP3 files used
-└── images/ # Background and album images
+   ├── index.html # Main HTML file
+   ├── style.css # Styling (blur, layout, fonts)
+   ├── script.js # Music control logic
+   ├── music/ # All MP3 files used
+   └── images/ # Background and album images
 
 **Customize Your Playlist**
 
