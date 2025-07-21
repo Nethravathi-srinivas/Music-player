@@ -12,14 +12,14 @@ A beautifully designed and fully functional web-based music player built using *
  🔄 Automatically plays the next track
 
  **Project Structure**
-
+```bash
  Music-Player/
    ├── index.html # Main HTML file
    ├── style.css # Styling (blur, layout, fonts)
    ├── script.js # Music control logic
    ├── music/ # All MP3 files used
    └── images/ # Background and album images
-
+```
 **Customize Your Playlist**
 
 Open the script.js file and update the songs array to change:
